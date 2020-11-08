@@ -1,0 +1,11 @@
+{
+  "description": "An amazing website for an amazing new discord bot and webiste developer",
+  "repo": "https://github.com/Jonfirexbox/jonfirexbox.github.io",
+  "owner": {
+    "username": "Jonfirexbox",
+    "email": "jon@astrobot.org"
+  },
+  "record": {
+    "CNAME": "jonfirexbox.github.io"
+  }
+}
